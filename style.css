@@ -1,0 +1,21 @@
+body {
+  background-color: orange;
+}
+#igredientes {
+  color: black;
+  font-size: 20px;
+}
+
+#receita {
+  border: dashed;
+  color: orangered;
+  border-radius: 20px;
+  margin-left: 5px;
+  padding-left: 15px;
+}
+strong {
+  color: red;
+}
+h2 {
+  color: red;
+}
